@@ -1,3 +1,17 @@
+
+# my-theme-hiero
+ theme：以上“Deploy blog files after changing computers”是换电脑之后部署博客的文件
+
+原主题博客教程：[点击这里](https://github.com/iTimeTraveler/hexo-theme-hiero/blob/master/README.cn.md "https://github.com/iTimeTraveler/hexo-theme-hiero/blob/master/README.cn.md")
+
+更详细教程：[点击这里](http://ylong.net.cn/hexo_conf.html "点击这里")
+
+
+
+了解更多主题的使用发生：[博客主题](http://theme-next.iissnan.com/getting-started.html#third-party-services "博客主题")
+
+
+
 # Hiero
 
 [![Gitter](https://camo.githubusercontent.com/079d8764b5eebffbb7158fb375df0959029ab2c3/68747470733a2f2f6261646765732e6769747465722e696d2f6865786f2d7468656d652d696e6469676f2f4c6f6262792e737667)](https://gitter.im/hexo-theme-hiker/Lobby?utm_source=share-link&utm_medium=link&utm_campaign=share-link)       [![Build Status](https://travis-ci.org/iTimeTraveler/hexo-theme-hiero.svg?branch=master)](https://travis-ci.org/iTimeTraveler/hexo-theme-hiero)		[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/iTimeTraveler/hexo-theme-hiero/blob/master/LICENSE)
